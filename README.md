@@ -1,70 +1,66 @@
-# Getting Started with Create React App
+# E-commerce clothing
+This is a static, responsive e-commerce clothing app created with ReactJS. Highlights:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Included various pages: Home, Cart, Product, Login, Register... 
+- Implemented static heads up display for cart quantity.
+- Incorporated sort and filter functionality for clothes (i.e. highest-lowest price & ★rating).
 
-## Available Scripts
+## Built With
 
-In the project directory, you can run:
+- ReactJS(+hooks)
+- Styled Components
+- JavaScript
+- HTML
+- CSS
+- Yarn
+- Git
+- MUI Icons
 
-### `yarn start`
+## Project view
+- Pending
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Getting Started
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+To get a local copy up and running follow these simple steps.
 
-### `yarn test`
+### Prerequisites
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- A web browser (e.g. Mozilla Firefox, Google Chrome etc.)
+- git: This is a version control system used for source code management.
+- A text editor (e.g Visual Studio Code (recommended), Sublime Text, Atom etc.)
 
-### `yarn build`
+## Live Demo
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Pending
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Setup
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- With git, clone the code to your machine, or download a ZIP of all the files directly.
+- [Download the ZIP file from this location](https://github.com/BlakeUSD/clothing-ecommerce/archive/refs/heads/master.zip) or run the following git command to clone the files to your machine:
 
-### `yarn eject`
+```
+git clone https://github.com/BlakeUSD/clothing-ecommerce.git
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- Once the files are on your machine, open the **clothing-ecommerce** folder in [Visual Studio Code](https://code.visualstudio.com/download).
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Deploying
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- After opening the files in Visual Studio Code, open the **VS Code** integrated terminal and run ``` yarn ``` to install the dependencies used.
+- Run ``` yarn run build ``` to bundle the **JavaScript** files with Webpack.
+- Run ``` yarn start ``` to launch the files with Webpack Dev Server.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Authors
 
-## Learn More
+👤 **Dellano Blake**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- LinkedIn: [Dellano Blake](https://www.linkedin.com/in/dellano-b-032a9b1a4/)
+- GitHub: [@BlakeUSD](https://github.com/blakeusd)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🤝 Contributing
 
-### Code Splitting
+Contributions, issues, and feature requests are welcome!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Show your support
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Give a ⭐️ if you like this project!
